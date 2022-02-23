@@ -15,7 +15,7 @@ body {
   background-color: var(--light-gray);
   min-height: 100vh;
   font-family: 'Outfit', sans-serif;
-  font-size: .9rem;
+  font-size: .91rem;
 
   display: flex;
   justify-content: center;
@@ -33,7 +33,7 @@ main {
   background-color: var(--white);
   border-radius: 20px;
   padding: 16px;
-  box-shadow: 20px 20px 20px hsla(217, 45%, 22%, 0.1);
+  box-shadow: 5px 10px 20px hsla(217, 45%, 22%, 0.1);
 }
 
 main img {
@@ -43,10 +43,10 @@ main img {
 
 h2 {
   color: var(--dark-blue);
-  padding: 20px 10px 0;
+  padding: 20px 16px 0;
 }
 
 p {
   color: var(--grayish-blue);
-  padding: 16px 16px 20px;
+  padding: 16px 16px 30px;
 }
